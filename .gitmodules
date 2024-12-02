@@ -1,0 +1,15 @@
+[submodule "TravelMedia-Client"]
+	path = TravelMedia-Client
+	url = https://github.com/darsandinesh/TravelMedia-Client.git
+[submodule "TravelMedia-API-Gateway"]
+	path = TravelMedia-API-Gateway
+	url = https://github.com/darsandinesh/TravelMedia-API_Gateway.git
+[submodule "TravelMedia-UserService"]
+	path = TravelMedia-UserService
+	url = https://github.com/darsandinesh/TravelMedia-UserService.git
+[submodule "TravelMedia-PostService"]
+	path = TravelMedia-PostService
+	url = https://github.com/darsandinesh/TravelMedia_PostService.git
+[submodule "TravelMedia-MessageService"]
+	path = TravelMedia-MessageService
+	url = https://github.com/darsandinesh/TravelMedia_MessageService.git
